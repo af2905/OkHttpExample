@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OkHttp Example</string>
+    <string name="username">username</string>
+    <string name="enter_username">enter username</string>
+    <string name="password">password</string>
+    <string name="enter_password">enter password</string>
+    <string name="start">start</string>
+</resources>
