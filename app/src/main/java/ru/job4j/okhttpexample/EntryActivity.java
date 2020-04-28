@@ -9,8 +9,8 @@ import android.widget.EditText;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class EntryActivity extends AppCompatActivity implements View.OnClickListener {
-    EditText username, password;
-    Button start;
+    private EditText username, password;
+    private Button start;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
